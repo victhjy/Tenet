@@ -1,0 +1,76 @@
+正常进入直播
+utparam-cnt={
+  "utabtest":"aliabtest29702_32133.aliabtest62257_78563.aliabtest61446_77656.aliabtest64791_81656.aliabtest65546_81653.aliabtest62255_78559.aliabtest61361_77532.aliabtest63084_51382.aliabtest60326_76132.aliabtest64462_81389.aliabtest65243_81957"
+},
+_afc_id=afc_launch^com.taobao.taobao4iphone^1012_Initiactive^5F560218-1E5D-46A1-A547-0B1186BCA063_1602313185922.683838,
+spm-url=a2141.1.guessitemtab_1.2,
+_tb_op_v=unknown,
+DARKMODE_MONITOR_BRIGHTNESS=56,
+DARKMODE_MONITOR_ISDARKMODE=1,
+utparam-url={
+  "tpp_buckets":"21801#0#192691#42_88#0#126806#7",
+  "ctr_version":"aio_rank_exp",
+  "x_biz_id":2459,
+  "ctr_score":0.013020485639572144,
+  "home_buckets":"tsp6461_32404_tsp6823_33753_tsp6485_32721_tsp6566_32637_tsp2979_32563_tsp6443_32421_tsp6911_33397_tsp6488_32411_tsp6848_33266_tsp6566_32637_6595_11513_11609_12893_13440_17348_19178_21337_21230_20634_tsp5353_30288_tsp6553_32543",
+  "utabtest":"aliabtest63747_68752.aliabtest61465_77631.aliabtest60501_76335.aliabtest59217_73886",
+  "newface":"true",
+  "ranger_buckets_native":"tsp6461_32404_tsp6823_33753_tsp6485_32721_tsp6566_32637_tsp2979_32563_tsp6443_32421_tsp6911_33397_tsp6488_32411_tsp6848_33266_tsp6566_32637_6595_11513_11609_12893_13440_17348_19178_21337_21230_20634_tsp5353_30288_tsp6553_32543",
+  "match_score":0.025943895105069503,
+  "up_pvid":"59aef315-4f27-4686-8b53-338760a95d11",
+  "x_gongge_id":"zhibo",
+  "x_item_ids":617926855193,
+  "match_type":10,
+  "x_object_id":11625925550,
+  "x_object_type":"gongge",
+  "page":"0",
+  "x_pvid":"59aef315-4f27-4686-8b53-338760a95d11",
+  "x_content_id":11625925550
+},
+DARKMODE_MONITOR_USER_SETTING=0,
+x_region_info=CN,
+spm-cnt=a2141.8001240,
+scm=1007.10088.126806.0,
+utpvid-b=14,
+utpvid=15
+
+
+utparam-cnt={
+  "utabtest":"aliabtest65243_81957.aliabtest29702_32133.aliabtest62257_78563.aliabtest61446_77656.aliabtest64791_81656.aliabtest65546_81653.aliabtest62255_78559.aliabtest61361_77532.aliabtest63084_51382.aliabtest60326_76132.aliabtest64462_81389"
+},
+_afc_id=afc_link^com.guiderank.guiderank-release^bc_ultimate_ios^9540E681-E248-47E9-B3EC-A6F4531825E4_1602313349478.936035,
+spm-url=a2141.1.guessitemtab_1.2,
+_tb_op_v=unknown,
+DARKMODE_MONITOR_BRIGHTNESS=66,
+DARKMODE_MONITOR_ISDARKMODE=1,
+utparam-url={
+  "tpp_buckets":"21801#0#192691#42_88#0#126806#7",
+  "ctr_version":"aio_rank_exp",
+  "x_biz_id":2459,
+  "ctr_score":0.009125620126724243,
+  "home_buckets":"tsp6461_32404_tsp6823_33753_tsp6485_32721_tsp6566_32637_tsp2979_32563_tsp6443_32421_tsp6911_33397_tsp6488_32411_tsp6848_33266_tsp6566_32637_6595_11513_11609_12893_13440_17348_19178_21337_21230_20634_tsp5353_30288_tsp6553_32543",
+  "utabtest":"aliabtest63747_68752.aliabtest59217_73886.aliabtest61465_77631.aliabtest60501_76335",
+  "newface":"true",
+  "match_score":0.015597199436068035,
+  "ranger_buckets_native":"tsp6461_32404_tsp6823_33753_tsp6485_32721_tsp6566_32637_tsp2979_32563_tsp6443_32421_tsp6911_33397_tsp6488_32411_tsp6848_33266_tsp6566_32637_6595_11513_11609_12893_13440_17348_19178_21337_21230_20634_tsp5353_30288_tsp6553_32543",
+  "x_gongge_id":"zhibo",
+  "up_pvid":"c4a52dc2-aaa7-495d-96a4-d3024354292d",
+  "x_item_ids":558619987839,
+  "match_type":10,
+  "page":"0",
+  "x_object_id":10490165798,
+  "x_pvid":"c4a52dc2-aaa7-495d-96a4-d3024354292d",
+  "x_object_type":"gongge",
+  "x_content_id":10490165798
+},
+DARKMODE_MONITOR_USER_SETTING=0,
+x_region_info=CN,
+spm-cnt=a2141.8001240,
+_tpk={
+  ybhpss=dHRpZD0yMDE0XzBfMjM1NTMyNjclNDBiYWljaHVhbl9pcGhvbmVfNS4wLjAuMA==,
+  adTraceOprId=I22_CPS_345494429116023133501144825,
+  ali_trackid=2:mm_119395979_17502503_109089050126:1602313349_230_2058475902
+},
+scm=1007.10088.126806.0,
+utpvid-b=10,
+utpvid=12

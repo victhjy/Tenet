@@ -1,0 +1,7885 @@
+{
+	"success": true,
+	"message": "success",
+	"data": [{
+		"STAT_DATE": {
+			"value": "20200801"
+		},
+		"DIRECT_IUV": {
+			"value": "5335106"
+		},
+		"CTR": {
+			"value": "0.860794059599668"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "14439298"
+		},
+		"APP_SHARE": {
+			"value": "0.8260445736656384"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1287279.8197358912"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.854498046722046"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "314220"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1420446338605128E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "821033"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2319393"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.648180956893569"
+		},
+		"CARD_CLK_PV": {
+			"value": "202780526"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3364276946711232"
+		},
+		"OF_RATE": {
+			"value": "0.0772231613277269"
+		},
+		"OC_RATE": {
+			"value": "0.09436134512935719"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14609288"
+		},
+		"AVG_DIRECT": {
+			"value": "11.770443173950058"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1100499"
+		},
+		"DIRECT_CART_UV": {
+			"value": "983439"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.42997740792544475"
+		},
+		"APP_DAU": {
+			"value": "20837999"
+		},
+		"PAGE_UV": {
+			"value": "17213116"
+		},
+		"ALL_VST_ITM": {
+			"value": "8295010"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6148091.828931181"
+		},
+		"AVG_ALL": {
+			"value": "13.615827108146988"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "225935"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74660966"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7695252499642693"
+		},
+		"PAGE_PV": {
+			"value": "186656934"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "6791203"
+		},
+		"ALL_IPV": {
+			"value": "100774154"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "439154"
+		},
+		"CARD_EXP_UV": {
+			"value": "17213116"
+		},
+		"CARD_CLK_UV": {
+			"value": "14816948"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3459547.5720526446"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4703277818630795"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11242216"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5184473"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "173706"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3099442308992747"
+		},
+		"ALL_IUV": {
+			"value": "7401251"
+		},
+		"DIRECT_IPV": {
+			"value": "62796562"
+		},
+		"ALL_ORD_UV": {
+			"value": "698392"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "373661"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5137001"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5398896887484501"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25505471980344946"
+		},
+		"ALL_CART_UV": {
+			"value": "1887724"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "571548"
+		},
+		"CARD_EXP_PV": {
+			"value": "186656934"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "218542"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200802"
+		},
+		"DIRECT_IUV": {
+			"value": "5529109"
+		},
+		"CTR": {
+			"value": "0.8596494930150574"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "14816948"
+		},
+		"APP_SHARE": {
+			"value": "0.8208840483696865"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1411589.9070658088"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.123183661815135"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "333966"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1990240873642184E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "865096"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2501148"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.8415762348710767"
+		},
+		"CARD_CLK_PV": {
+			"value": "209611020"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.35720885039881106"
+		},
+		"OF_RATE": {
+			"value": "0.0790879504339057"
+		},
+		"OC_RATE": {
+			"value": "0.09697074188557316"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14488393"
+		},
+		"AVG_DIRECT": {
+			"value": "12.215394921677253"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1159762"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1045471"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43282800734185406"
+		},
+		"APP_DAU": {
+			"value": "21417629"
+		},
+		"PAGE_UV": {
+			"value": "17581390"
+		},
+		"ALL_VST_ITM": {
+			"value": "8489439"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6376897.213616076"
+		},
+		"AVG_ALL": {
+			"value": "14.146921081701057"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "239918"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74753689"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7687986514446427"
+		},
+		"PAGE_PV": {
+			"value": "189077762"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "6982568"
+		},
+		"ALL_IPV": {
+			"value": "107654080"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "445067"
+		},
+		"CARD_EXP_UV": {
+			"value": "17581390"
+		},
+		"CARD_CLK_UV": {
+			"value": "15113833"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3836381.806010267"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4712554839228699"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11138657"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5477829"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "186093"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3144864541427043"
+		},
+		"ALL_IUV": {
+			"value": "7609718"
+		},
+		"DIRECT_IPV": {
+			"value": "67540250"
+		},
+		"ALL_ORD_UV": {
+			"value": "737920"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "377574"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5180132"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.56936404821631"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2589279918125744"
+		},
+		"ALL_CART_UV": {
+			"value": "1970369"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "601837"
+		},
+		"CARD_EXP_PV": {
+			"value": "189077762"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "234931"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200803"
+		},
+		"DIRECT_IUV": {
+			"value": "5461467"
+		},
+		"CTR": {
+			"value": "0.8624391033027173"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15113833"
+		},
+		"APP_SHARE": {
+			"value": "0.8320451596932873"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1315120.374623868"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.763328484675778"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "325033"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2417211643524928E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "881214"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2372525"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.573230894990386"
+		},
+		"CARD_CLK_PV": {
+			"value": "212811602"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.32102089169884895"
+		},
+		"OF_RATE": {
+			"value": "0.08132072259474109"
+		},
+		"OC_RATE": {
+			"value": "0.09928180717522911"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14788994"
+		},
+		"AVG_DIRECT": {
+			"value": "11.736798739239841"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1180126"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1014570"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.42271402631118615"
+		},
+		"APP_DAU": {
+			"value": "21560111"
+		},
+		"PAGE_UV": {
+			"value": "17938986"
+		},
+		"ALL_VST_ITM": {
+			"value": "8383209"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6513735.37848459"
+		},
+		"AVG_ALL": {
+			"value": "13.634107519377729"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "235600"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74870039"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7689690725413777"
+		},
+		"PAGE_PV": {
+			"value": "199675911"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7209297"
+		},
+		"ALL_IPV": {
+			"value": "103388269"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "441850"
+		},
+		"CARD_EXP_UV": {
+			"value": "17938986"
+		},
+		"CARD_CLK_UV": {
+			"value": "15471283"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3631425.2923747874"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47699991127333485"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11372279"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5364206"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "181082"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.30444680652518485"
+		},
+		"ALL_IUV": {
+			"value": "7583061"
+		},
+		"DIRECT_IPV": {
+			"value": "64100139"
+		},
+		"ALL_ORD_UV": {
+			"value": "752860"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "376922"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5184250"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5177803796272651"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25917040625151244"
+		},
+		"ALL_CART_UV": {
+			"value": "1965305"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "616660"
+		},
+		"CARD_EXP_PV": {
+			"value": "199675911"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "226355"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200804"
+		},
+		"DIRECT_IUV": {
+			"value": "5622306"
+		},
+		"CTR": {
+			"value": "0.8662143480531863"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15471283"
+		},
+		"APP_SHARE": {
+			"value": "0.8285394554808845"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1316809.73701405"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.868658527275054"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "336338"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1682628251210675E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "889125"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2461855"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6343984955179156"
+		},
+		"CARD_CLK_PV": {
+			"value": "219402426"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.32289614786155185"
+		},
+		"OF_RATE": {
+			"value": "0.07973367995430453"
+		},
+		"OC_RATE": {
+			"value": "0.09736188982751813"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14819725"
+		},
+		"AVG_DIRECT": {
+			"value": "11.769412586223517"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1188834"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1057598"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.42664782036290577"
+		},
+		"APP_DAU": {
+			"value": "21974729"
+		},
+		"PAGE_UV": {
+			"value": "18206930"
+		},
+		"ALL_VST_ITM": {
+			"value": "8548681"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6321433.51156751"
+		},
+		"AVG_ALL": {
+			"value": "13.755276007933627"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "244489"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74973253"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7667883175969864"
+		},
+		"PAGE_PV": {
+			"value": "204930407"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7669017"
+		},
+		"ALL_IPV": {
+			"value": "106850255"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "444227"
+		},
+		"CARD_EXP_UV": {
+			"value": "18206930"
+		},
+		"CARD_CLK_UV": {
+			"value": "15771104"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3350942.7015654296"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49569366677605214"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11363592"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5559823"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "188784"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3088003304236354"
+		},
+		"ALL_IUV": {
+			"value": "7767947"
+		},
+		"DIRECT_IPV": {
+			"value": "66171239"
+		},
+		"ALL_ORD_UV": {
+			"value": "756302"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "379503"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5349129"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5213977591914898"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.26196226622040547"
+		},
+		"ALL_CART_UV": {
+			"value": "2034909"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "619367"
+		},
+		"CARD_EXP_PV": {
+			"value": "204930407"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "235670"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200805"
+		},
+		"DIRECT_IUV": {
+			"value": "5604461"
+		},
+		"CTR": {
+			"value": "0.867626334013009"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15771104"
+		},
+		"APP_SHARE": {
+			"value": "0.8266382825459885"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1337281.7362289636"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.814947958662813"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "328029"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1970490278415905E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "877709"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2443511"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.598518289508905"
+		},
+		"CARD_CLK_PV": {
+			"value": "219682826"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3192202431565001"
+		},
+		"OF_RATE": {
+			"value": "0.07860242726043082"
+		},
+		"OC_RATE": {
+			"value": "0.09616840636341147"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14811471"
+		},
+		"AVG_DIRECT": {
+			"value": "11.700898801865158"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1173924"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1051647"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.42500460122749883"
+		},
+		"APP_DAU": {
+			"value": "22045190"
+		},
+		"PAGE_UV": {
+			"value": "18223398"
+		},
+		"ALL_VST_ITM": {
+			"value": "8491229"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6319246.251416614"
+		},
+		"AVG_ALL": {
+			"value": "13.68208236303342"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "238546"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75015701"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7631662648497236"
+		},
+		"PAGE_PV": {
+			"value": "205429425"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7816204"
+		},
+		"ALL_IPV": {
+			"value": "105968111"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "443356"
+		},
+		"CARD_EXP_UV": {
+			"value": "18223398"
+		},
+		"CARD_CLK_UV": {
+			"value": "15811100"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3597037.1684188405"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49560284429041873"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11303615"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5628443"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "183189"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3075420401837242"
+		},
+		"ALL_IUV": {
+			"value": "7745028"
+		},
+		"DIRECT_IPV": {
+			"value": "65577231"
+		},
+		"ALL_ORD_UV": {
+			"value": "744827"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "378762"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5273967"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5158370618035854"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2648371316410993"
+		},
+		"ALL_CART_UV": {
+			"value": "2051171"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "608778"
+		},
+		"CARD_EXP_PV": {
+			"value": "205429425"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "228601"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200806"
+		},
+		"DIRECT_IUV": {
+			"value": "5818012"
+		},
+		"CTR": {
+			"value": "0.8717374511594648"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15811100"
+		},
+		"APP_SHARE": {
+			"value": "0.8372628483474621"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1474482.6105477498"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.9870038263187775"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "349878"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.4824296742671832E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "968343"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2530053"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.712516140061947"
+		},
+		"CARD_CLK_PV": {
+			"value": "226263290"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3252125570622523"
+		},
+		"OF_RATE": {
+			"value": "0.0827204497319466"
+		},
+		"OC_RATE": {
+			"value": "0.1006476236153328"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14369793"
+		},
+		"AVG_DIRECT": {
+			"value": "11.764811760443258"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1280492"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1091983"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4333572598033893"
+		},
+		"APP_DAU": {
+			"value": "22020614"
+		},
+		"PAGE_UV": {
+			"value": "18437042"
+		},
+		"ALL_VST_ITM": {
+			"value": "8490432"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7850162.276683625"
+		},
+		"AVG_ALL": {
+			"value": "13.815399859771665"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "253359"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74815298"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7642038406537937"
+		},
+		"PAGE_PV": {
+			"value": "210471012"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7886312"
+		},
+		"ALL_IPV": {
+			"value": "110382641"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "447375"
+		},
+		"CARD_EXP_UV": {
+			"value": "18437042"
+		},
+		"CARD_CLK_UV": {
+			"value": "16072260"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3698640.785266299"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4987832598617427"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "10981451"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5840367"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "195948"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3155610319703128"
+		},
+		"ALL_IUV": {
+			"value": "7989826"
+		},
+		"DIRECT_IPV": {
+			"value": "68447816"
+		},
+		"ALL_ORD_UV": {
+			"value": "804157"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "383801"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5191358"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5244553154901921"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2660761323212796"
+		},
+		"ALL_CART_UV": {
+			"value": "2125902"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "660922"
+		},
+		"CARD_EXP_PV": {
+			"value": "210471012"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "246546"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200807"
+		},
+		"DIRECT_IUV": {
+			"value": "5991314"
+		},
+		"CTR": {
+			"value": "0.8695739612627302"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16072260"
+		},
+		"APP_SHARE": {
+			"value": "0.8357178881781839"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1484686.035356479"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.069758392970269"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "345613"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.3816061627665965E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "916982"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2561179"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7151443426565396"
+		},
+		"CARD_CLK_PV": {
+			"value": "231997188"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3256152337474406"
+		},
+		"OF_RATE": {
+			"value": "0.07704751226420467"
+		},
+		"OC_RATE": {
+			"value": "0.09426469843542058"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14439298"
+		},
+		"AVG_DIRECT": {
+			"value": "11.630374405347474"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1222540"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1114046"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.439045619229778"
+		},
+		"APP_DAU": {
+			"value": "22442973"
+		},
+		"PAGE_UV": {
+			"value": "18755994"
+		},
+		"ALL_VST_ITM": {
+			"value": "8582222"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7458778.308163452"
+		},
+		"AVG_ALL": {
+			"value": "13.824892282534343"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "251189"
+		},
+		"CARD_CLK_MAU": {
+			"value": "74863607"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7702073189430677"
+		},
+		"PAGE_PV": {
+			"value": "213998664"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8038230"
+		},
+		"ALL_IPV": {
+			"value": "113844352"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "449728"
+		},
+		"CARD_EXP_UV": {
+			"value": "18755994"
+		},
+		"CARD_CLK_UV": {
+			"value": "16309724"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3667192.0833000164"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.5001306599071942"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11121253"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5965904"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "193880"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31943462980421083"
+		},
+		"ALL_IUV": {
+			"value": "8234737"
+		},
+		"DIRECT_IPV": {
+			"value": "69681225"
+		},
+		"ALL_ORD_UV": {
+			"value": "776245"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "383381"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5141712"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5319862744563676"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.26371261158674525"
+		},
+		"ALL_CART_UV": {
+			"value": "2171604"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "634466"
+		},
+		"CARD_EXP_PV": {
+			"value": "213998664"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "243154"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200808"
+		},
+		"DIRECT_IUV": {
+			"value": "6805880"
+		},
+		"CTR": {
+			"value": "0.8758482429261578"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16309724"
+		},
+		"APP_SHARE": {
+			"value": "0.8365452989479736"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "2752580.72203544"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.732336320802681"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "494439"
+		},
+		"ALL_ORD_FEE": {
+			"value": "3.3661411733402535E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "1629294"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "3025343"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.9249431102093864"
+		},
+		"CARD_CLK_PV": {
+			"value": "277203143"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3241432454242721"
+		},
+		"OF_RATE": {
+			"value": "0.10756589489445571"
+		},
+		"OC_RATE": {
+			"value": "0.12711818500041447"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "14816948"
+		},
+		"AVG_DIRECT": {
+			"value": "11.722823205816146"
+		},
+		"ALL_ORD_CNT": {
+			"value": "2091564"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1300167"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4658818432857896"
+		},
+		"APP_DAU": {
+			"value": "24299295"
+		},
+		"PAGE_UV": {
+			"value": "20327461"
+		},
+		"ALL_VST_ITM": {
+			"value": "9545049"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "2.146676506220086E7"
+		},
+		"AVG_ALL": {
+			"value": "14.450737709202398"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "345131"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75090292"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7772605397548807"
+		},
+		"PAGE_PV": {
+			"value": "246138487"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8452866"
+		},
+		"ALL_IPV": {
+			"value": "136851304"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "465556"
+		},
+		"CARD_EXP_UV": {
+			"value": "20327461"
+		},
+		"CARD_CLK_UV": {
+			"value": "17803771"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "5531588.880254722"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.5182715538288692"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11516629"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "7855481"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "276284"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3348121046696388"
+		},
+		"ALL_IUV": {
+			"value": "9470195"
+		},
+		"DIRECT_IPV": {
+			"value": "79784128"
+		},
+		"ALL_ORD_UV": {
+			"value": "1203834"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "394400"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5590555"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5559931145591221"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2841895019057158"
+		},
+		"ALL_CART_UV": {
+			"value": "2691330"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "1018670"
+		},
+		"CARD_EXP_PV": {
+			"value": "246138487"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "364411"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200809"
+		},
+		"DIRECT_IUV": {
+			"value": "6029831"
+		},
+		"CTR": {
+			"value": "0.8700168129639926"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "17803771"
+		},
+		"APP_SHARE": {
+			"value": "0.8402587081971553"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1538982.1583948997"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.24879315496768"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "353558"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.4278165142873507E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "945218"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2573659"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.81829017995185"
+		},
+		"CARD_CLK_PV": {
+			"value": "229473728"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3467180473430529"
+		},
+		"OF_RATE": {
+			"value": "0.07824051279108053"
+		},
+		"OC_RATE": {
+			"value": "0.09473742716379048"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15113833"
+		},
+		"AVG_DIRECT": {
+			"value": "11.81011192519326"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1253199"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1102925"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.443756461291712"
+		},
+		"APP_DAU": {
+			"value": "22196127"
+		},
+		"PAGE_UV": {
+			"value": "18650489"
+		},
+		"ALL_VST_ITM": {
+			"value": "8872733"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7725008.935217975"
+		},
+		"AVG_ALL": {
+			"value": "14.081582354380442"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "254368"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75254857"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7770725665686528"
+		},
+		"PAGE_PV": {
+			"value": "205391613"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8329496"
+		},
+		"ALL_IPV": {
+			"value": "116543048"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "456479"
+		},
+		"CARD_EXP_UV": {
+			"value": "18650489"
+		},
+		"CARD_CLK_UV": {
+			"value": "16226239"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3809608.4282540255"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.46785009760010954"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11744545"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5841209"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "197517"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3233068580668314"
+		},
+		"ALL_IUV": {
+			"value": "8276275"
+		},
+		"DIRECT_IPV": {
+			"value": "71212979"
+		},
+		"ALL_ORD_UV": {
+			"value": "784073"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "388985"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5396238"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5674187290208388"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.256341288804444"
+		},
+		"ALL_CART_UV": {
+			"value": "2121551"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "647540"
+		},
+		"CARD_EXP_PV": {
+			"value": "205391613"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "249932"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200810"
+		},
+		"DIRECT_IUV": {
+			"value": "5907625"
+		},
+		"CTR": {
+			"value": "0.8682846915608193"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16226239"
+		},
+		"APP_SHARE": {
+			"value": "0.8433075533063128"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1392595.0599941164"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.881872407898733"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "335246"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2941317430716366E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "908516"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2454122"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6431167449788293"
+		},
+		"CARD_CLK_PV": {
+			"value": "228126430"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.32157662331311254"
+		},
+		"OF_RATE": {
+			"value": "0.07773263315858432"
+		},
+		"OC_RATE": {
+			"value": "0.09405664696775458"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15471283"
+		},
+		"AVG_DIRECT": {
+			"value": "11.616281669875796"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1199034"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1065193"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43236887510522626"
+		},
+		"APP_DAU": {
+			"value": "22336801"
+		},
+		"PAGE_UV": {
+			"value": "18836793"
+		},
+		"ALL_VST_ITM": {
+			"value": "8647313"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7441180.4493300365"
+		},
+		"AVG_ALL": {
+			"value": "13.603829384035224"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "243850"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75380603"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7856886206528573"
+		},
+		"PAGE_PV": {
+			"value": "213400574"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7934218"
+		},
+		"ALL_IPV": {
+			"value": "110795613"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "453202"
+		},
+		"CARD_EXP_UV": {
+			"value": "18836793"
+		},
+		"CARD_CLK_UV": {
+			"value": "16355699"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3280130.6099426914"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48897455534828493"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12155611"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5556440"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "189733"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.313621591531"
+		},
+		"ALL_IUV": {
+			"value": "8144443"
+		},
+		"DIRECT_IPV": {
+			"value": "68624636"
+		},
+		"ALL_ORD_UV": {
+			"value": "766039"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "387493"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5315570"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5191907918673171"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2521277391222457"
+		},
+		"ALL_CART_UV": {
+			"value": "2053440"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "633089"
+		},
+		"CARD_EXP_PV": {
+			"value": "213400574"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "236772"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200811"
+		},
+		"DIRECT_IUV": {
+			"value": "5771822"
+		},
+		"CTR": {
+			"value": "0.8706841158485172"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16355699"
+		},
+		"APP_SHARE": {
+			"value": "0.8448531164074619"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1327212.1463333531"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.90096558593219"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "324972"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.116244726472788E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "851080"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2432870"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7160652652507573"
+		},
+		"CARD_CLK_PV": {
+			"value": "221701122"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3274619625330932"
+		},
+		"OF_RATE": {
+			"value": "0.07594155233643383"
+		},
+		"OC_RATE": {
+			"value": "0.0921170104939382"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15771104"
+		},
+		"AVG_DIRECT": {
+			"value": "11.816257673919951"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1124051"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1050580"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.42769242588651896"
+		},
+		"APP_DAU": {
+			"value": "21723427"
+		},
+		"PAGE_UV": {
+			"value": "18353105"
+		},
+		"ALL_VST_ITM": {
+			"value": "8432048"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5957178.961693955"
+		},
+		"AVG_ALL": {
+			"value": "13.797217880818662"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "236886"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75440396"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7873186303254357"
+		},
+		"PAGE_PV": {
+			"value": "208272544"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8065959"
+		},
+		"ALL_IPV": {
+			"value": "108301041"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "447424"
+		},
+		"CARD_EXP_UV": {
+			"value": "18353105"
+		},
+		"CARD_CLK_UV": {
+			"value": "15979757"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3378701.164399603"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49315892888466584"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12416884"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5351371"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "184570"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31448749407797755"
+		},
+		"ALL_IUV": {
+			"value": "7849484"
+		},
+		"DIRECT_IPV": {
+			"value": "68201336"
+		},
+		"ALL_ORD_UV": {
+			"value": "723071"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "383255"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5223200"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5199967260206895"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25246971648072664"
+		},
+		"ALL_CART_UV": {
+			"value": "1981757"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "596102"
+		},
+		"CARD_EXP_PV": {
+			"value": "208272544"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "230355"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200812"
+		},
+		"DIRECT_IUV": {
+			"value": "5783223"
+		},
+		"CTR": {
+			"value": "0.8698199934629948"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15979757"
+		},
+		"APP_SHARE": {
+			"value": "0.8482435838356124"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1320370.6781475246"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.856843495191175"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "321664"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1421006132010499E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "880476"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2369775"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6297649284241364"
+		},
+		"CARD_CLK_PV": {
+			"value": "221207871"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.32323111455753134"
+		},
+		"OF_RATE": {
+			"value": "0.07729815618196607"
+		},
+		"OC_RATE": {
+			"value": "0.09424853928691292"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15811100"
+		},
+		"AVG_DIRECT": {
+			"value": "11.559956965173226"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1168103"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1039712"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4299960582510145"
+		},
+		"APP_DAU": {
+			"value": "21713362"
+		},
+		"PAGE_UV": {
+			"value": "18418220"
+		},
+		"ALL_VST_ITM": {
+			"value": "8362791"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6125030.271387328"
+		},
+		"AVG_ALL": {
+			"value": "13.620691126829316"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "234731"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75526949"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7876198999437104"
+		},
+		"PAGE_PV": {
+			"value": "206829745"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7906620"
+		},
+		"ALL_IPV": {
+			"value": "107872632"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "447509"
+		},
+		"CARD_EXP_UV": {
+			"value": "18418220"
+		},
+		"CARD_CLK_UV": {
+			"value": "16020536"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3376456.7463802616"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.494789751809117"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12453137"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5395612"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "182849"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31399467483828514"
+		},
+		"ALL_IUV": {
+			"value": "7919762"
+		},
+		"DIRECT_IPV": {
+			"value": "66853809"
+		},
+		"ALL_ORD_UV": {
+			"value": "746426"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "382813"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5112479"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5215527969635122"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2525977422048794"
+		},
+		"ALL_CART_UV": {
+			"value": "2000514"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "612183"
+		},
+		"CARD_EXP_PV": {
+			"value": "206829745"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "228376"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200813"
+		},
+		"DIRECT_IUV": {
+			"value": "5856064"
+		},
+		"CTR": {
+			"value": "0.8686708529843524"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16020536"
+		},
+		"APP_SHARE": {
+			"value": "0.8505577653403902"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1309105.5629460446"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.920007895264109"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "321053"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1872844306728264E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "855673"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2383825"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6989704623280715"
+		},
+		"CARD_CLK_PV": {
+			"value": "223081621"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.32793095841672604"
+		},
+		"OF_RATE": {
+			"value": "0.07470987416657196"
+		},
+		"OC_RATE": {
+			"value": "0.09123912356689429"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16072260"
+		},
+		"AVG_DIRECT": {
+			"value": "11.658093900613109"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1137147"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1047143"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43286831174091656"
+		},
+		"APP_DAU": {
+			"value": "21699448"
+		},
+		"PAGE_UV": {
+			"value": "18456634"
+		},
+		"ALL_VST_ITM": {
+			"value": "8258784"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6059482.740483103"
+		},
+		"AVG_ALL": {
+			"value": "13.67623301288775"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "234904"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75589111"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7875249031561211"
+		},
+		"PAGE_PV": {
+			"value": "208185724"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7856658"
+		},
+		"ALL_IPV": {
+			"value": "109263419"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "450727"
+		},
+		"CARD_EXP_UV": {
+			"value": "18456634"
+		},
+		"CARD_CLK_UV": {
+			"value": "16032740"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3576680.4545956547"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4904116816066579"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12657305"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5356823"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "182713"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3172877568033261"
+		},
+		"ALL_IUV": {
+			"value": "7989292"
+		},
+		"DIRECT_IPV": {
+			"value": "68270544"
+		},
+		"ALL_ORD_UV": {
+			"value": "728936"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "386554"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5041088"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5248362707137402"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.24946991548187247"
+		},
+		"ALL_CART_UV": {
+			"value": "1993088"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "596879"
+		},
+		"CARD_EXP_PV": {
+			"value": "208185724"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "227471"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200814"
+		},
+		"DIRECT_IUV": {
+			"value": "5801245"
+		},
+		"CTR": {
+			"value": "0.8691526599335168"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16032740"
+		},
+		"APP_SHARE": {
+			"value": "0.8470424279834462"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1349996.681512592"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.786778529131797"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "319071"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2553702851421434E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "869577"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2288887"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.5862839122043537"
+		},
+		"CARD_CLK_PV": {
+			"value": "218856893"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3224518852518426"
+		},
+		"OF_RATE": {
+			"value": "0.07588426723486279"
+		},
+		"OC_RATE": {
+			"value": "0.09261589210852354"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16309724"
+		},
+		"AVG_DIRECT": {
+			"value": "11.369046299544323"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1159159"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1018476"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.429797173564736"
+		},
+		"APP_DAU": {
+			"value": "21711779"
+		},
+		"PAGE_UV": {
+			"value": "18390798"
+		},
+		"ALL_VST_ITM": {
+			"value": "8197953"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6758118.323784912"
+		},
+		"AVG_ALL": {
+			"value": "13.463975300573244"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "231927"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75497923"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7856587272721476"
+		},
+		"PAGE_PV": {
+			"value": "204540975"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7784883"
+		},
+		"ALL_IPV": {
+			"value": "106423475"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "449874"
+		},
+		"CARD_EXP_UV": {
+			"value": "18390798"
+		},
+		"CARD_CLK_UV": {
+			"value": "15984411"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3524295.0739522832"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4855616070615503"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12813877"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5308003"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "180038"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3154428100401081"
+		},
+		"ALL_IUV": {
+			"value": "7904313"
+		},
+		"DIRECT_IPV": {
+			"value": "65954623"
+		},
+		"ALL_ORD_UV": {
+			"value": "732065"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "384370"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "4926699"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5203039391007107"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.24939763898519707"
+		},
+		"ALL_CART_UV": {
+			"value": "1971317"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "599813"
+		},
+		"CARD_EXP_PV": {
+			"value": "204540975"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "224773"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200815"
+		},
+		"DIRECT_IUV": {
+			"value": "5724080"
+		},
+		"CTR": {
+			"value": "0.8655341028427643"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15984411"
+		},
+		"APP_SHARE": {
+			"value": "0.8446136059144194"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1324280.4283745487"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.900173938976928"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "315998"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1346411640093278E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "833623"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2325849"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.637088492812506"
+		},
+		"CARD_CLK_PV": {
+			"value": "215511540"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.33271079169793977"
+		},
+		"OF_RATE": {
+			"value": "0.07390776071360236"
+		},
+		"OC_RATE": {
+			"value": "0.08970335443149238"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "17803771"
+		},
+		"AVG_DIRECT": {
+			"value": "11.52196946932957"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1107080"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1019992"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4329020787144321"
+		},
+		"APP_DAU": {
+			"value": "21469428"
+		},
+		"PAGE_UV": {
+			"value": "18133371"
+		},
+		"ALL_VST_ITM": {
+			"value": "8307478"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5837141.97802623"
+		},
+		"AVG_ALL": {
+			"value": "13.629349982560452"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "227910"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75550846"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7616873975743678"
+		},
+		"PAGE_PV": {
+			"value": "198228241"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7630286"
+		},
+		"ALL_IPV": {
+			"value": "106990043"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "451765"
+		},
+		"CARD_EXP_UV": {
+			"value": "18133371"
+		},
+		"CARD_CLK_UV": {
+			"value": "15695051"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3608670.6988783972"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47735797083796205"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "13560908"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5275808"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "176364"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3156655207683116"
+		},
+		"ALL_IUV": {
+			"value": "7849974"
+		},
+		"DIRECT_IPV": {
+			"value": "65952675"
+		},
+		"ALL_ORD_UV": {
+			"value": "704169"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "384716"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "4956181"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5397315864796479"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.249375603027475"
+		},
+		"ALL_CART_UV": {
+			"value": "1957592"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "580174"
+		},
+		"CARD_EXP_PV": {
+			"value": "198228241"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "221936"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200816"
+		},
+		"DIRECT_IUV": {
+			"value": "5685708"
+		},
+		"CTR": {
+			"value": "0.8684683501241205"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15695051"
+		},
+		"APP_SHARE": {
+			"value": "0.8442634923887874"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1321645.5127563593"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.021942319632365"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "309543"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1384782241709255E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "831379"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2337702"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7159670786051353"
+		},
+		"CARD_CLK_PV": {
+			"value": "210759381"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3523041433228621"
+		},
+		"OF_RATE": {
+			"value": "0.0738958271593038"
+		},
+		"OC_RATE": {
+			"value": "0.09006823819431556"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16226239"
+		},
+		"AVG_DIRECT": {
+			"value": "11.64213586065271"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1104838"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1013917"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43795806962647094"
+		},
+		"APP_DAU": {
+			"value": "21099266"
+		},
+		"PAGE_UV": {
+			"value": "17813340"
+		},
+		"ALL_VST_ITM": {
+			"value": "8375504"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5920168.141541655"
+		},
+		"AVG_ALL": {
+			"value": "13.750043068662729"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "224283"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75632050"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.771710006243591"
+		},
+		"PAGE_PV": {
+			"value": "187888182"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7398673"
+		},
+		"ALL_IPV": {
+			"value": "107270906"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "454472"
+		},
+		"CARD_EXP_UV": {
+			"value": "17813340"
+		},
+		"CARD_CLK_UV": {
+			"value": "15470322"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3535547.7124383966"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4714016539353711"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12521951"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5286711"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "174122"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31918259012627614"
+		},
+		"ALL_IUV": {
+			"value": "7801496"
+		},
+		"DIRECT_IPV": {
+			"value": "66193785"
+		},
+		"ALL_ORD_UV": {
+			"value": "702667"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "386496"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5010177"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5709295010369518"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.24931141411852292"
+		},
+		"ALL_CART_UV": {
+			"value": "1945002"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "576498"
+		},
+		"CARD_EXP_PV": {
+			"value": "187888182"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "218261"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200817"
+		},
+		"DIRECT_IUV": {
+			"value": "5646833"
+		},
+		"CTR": {
+			"value": "0.8705313524604519"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15470322"
+		},
+		"APP_SHARE": {
+			"value": "0.8444992853117144"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1389795.5732850493"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.825760009357964"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "313991"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.405167545876986E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "855739"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2283144"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.610547846762001"
+		},
+		"CARD_CLK_PV": {
+			"value": "211441385"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.34211887176927774"
+		},
+		"OF_RATE": {
+			"value": "0.07661577737458927"
+		},
+		"OC_RATE": {
+			"value": "0.09341507402762876"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16355699"
+		},
+		"AVG_DIRECT": {
+			"value": "11.5006530209057"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1141716"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1003923"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43101820455402395"
+		},
+		"APP_DAU": {
+			"value": "21298796"
+		},
+		"PAGE_UV": {
+			"value": "17986818"
+		},
+		"ALL_VST_ITM": {
+			"value": "8427671"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7257186.77796447"
+		},
+		"AVG_ALL": {
+			"value": "13.516273669660656"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "227166"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75685890"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7740767300743306"
+		},
+		"PAGE_PV": {
+			"value": "189823691"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7420641"
+		},
+		"ALL_IPV": {
+			"value": "104786885"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "455498"
+		},
+		"CARD_EXP_UV": {
+			"value": "17986818"
+		},
+		"CARD_CLK_UV": {
+			"value": "15658089"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3977006.9998875316"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47966946001511795"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12660566"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5220709"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "175464"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31394285526211474"
+		},
+		"ALL_IUV": {
+			"value": "7752646"
+		},
+		"DIRECT_IPV": {
+			"value": "64942267"
+		},
+		"ALL_ORD_UV": {
+			"value": "724214"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "391193"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5147750"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.552022165663189"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25069402111227573"
+		},
+		"ALL_CART_UV": {
+			"value": "1943542"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "593975"
+		},
+		"CARD_EXP_PV": {
+			"value": "189823691"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "219170"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200818"
+		},
+		"DIRECT_IUV": {
+			"value": "5728160"
+		},
+		"CTR": {
+			"value": "0.8741162480021797"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15658089"
+		},
+		"APP_SHARE": {
+			"value": "0.8397359555996474"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1313779.7321977334"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.807328507516801"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "303017"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2467737942427384E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "826566"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2291751"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6362226118346803"
+		},
+		"CARD_CLK_PV": {
+			"value": "215517735"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3443543554271158"
+		},
+		"OF_RATE": {
+			"value": "0.0740233828922915"
+		},
+		"OC_RATE": {
+			"value": "0.09015193020903574"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15979757"
+		},
+		"AVG_DIRECT": {
+			"value": "11.48370628613726"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1102210"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1013196"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4302176504024993"
+		},
+		"APP_DAU": {
+			"value": "21542892"
+		},
+		"PAGE_UV": {
+			"value": "18090341"
+		},
+		"ALL_VST_ITM": {
+			"value": "8421654"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6392251.415542569"
+		},
+		"AVG_ALL": {
+			"value": "13.49858264086476"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "221244"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75725877"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7748691672845839"
+		},
+		"PAGE_PV": {
+			"value": "191025628"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7692786"
+		},
+		"ALL_IPV": {
+			"value": "105056553"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "454195"
+		},
+		"CARD_EXP_UV": {
+			"value": "18090341"
+		},
+		"CARD_CLK_UV": {
+			"value": "15813061"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3691625.243158168"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49129788443532285"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12382221"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5288394"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "170669"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31664190299121503"
+		},
+		"ALL_IUV": {
+			"value": "7782784"
+		},
+		"DIRECT_IPV": {
+			"value": "65780507"
+		},
+		"ALL_ORD_UV": {
+			"value": "701633"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "390923"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5139294"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5499605162926097"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2530257810058714"
+		},
+		"ALL_CART_UV": {
+			"value": "1969245"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "576108"
+		},
+		"CARD_EXP_PV": {
+			"value": "191025628"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "211875"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200819"
+		},
+		"DIRECT_IUV": {
+			"value": "5649807"
+		},
+		"CTR": {
+			"value": "0.8723494017438872"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15813061"
+		},
+		"APP_SHARE": {
+			"value": "0.8413551352241795"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1225285.6471933967"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.868239474788373"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "296704"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1779491928988643E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "844298"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2323753"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6841393307818824"
+		},
+		"CARD_CLK_PV": {
+			"value": "212763059"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.36153435766499525"
+		},
+		"OF_RATE": {
+			"value": "0.07584758204774919"
+		},
+		"OC_RATE": {
+			"value": "0.09219079841869321"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16020536"
+		},
+		"AVG_DIRECT": {
+			"value": "11.623296512606537"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1119733"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1011929"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43217666800879734"
+		},
+		"APP_DAU": {
+			"value": "21185930"
+		},
+		"PAGE_UV": {
+			"value": "17824891"
+		},
+		"ALL_VST_ITM": {
+			"value": "8413346"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6270913.315912433"
+		},
+		"AVG_ALL": {
+			"value": "13.578334762553446"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "217008"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75737471"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7691607821361283"
+		},
+		"PAGE_PV": {
+			"value": "181640778"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7724611"
+		},
+		"ALL_IPV": {
+			"value": "104600729"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "453391"
+		},
+		"CARD_EXP_UV": {
+			"value": "17824891"
+		},
+		"CARD_CLK_UV": {
+			"value": "15549533"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3268892.1612669243"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48849561764164445"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12322368"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5299987"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "168282"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31696165771785084"
+		},
+		"ALL_IUV": {
+			"value": "7703502"
+		},
+		"DIRECT_IPV": {
+			"value": "65669382"
+		},
+		"ALL_ORD_UV": {
+			"value": "710192"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "391776"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5200340"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5758658939459068"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2540427717160325"
+		},
+		"ALL_CART_UV": {
+			"value": "1957019"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "584292"
+		},
+		"CARD_EXP_PV": {
+			"value": "181640778"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "209311"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200820"
+		},
+		"DIRECT_IUV": {
+			"value": "5737219"
+		},
+		"CTR": {
+			"value": "0.8726014037606551"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15549533"
+		},
+		"APP_SHARE": {
+			"value": "0.8446743013979952"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1227844.4340709546"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.992516914862405"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "311106"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0908857769127557E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "833134"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2411740"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7697474542642104"
+		},
+		"CARD_CLK_PV": {
+			"value": "216392461"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.375371844385737"
+		},
+		"OF_RATE": {
+			"value": "0.074144897390773"
+		},
+		"OC_RATE": {
+			"value": "0.0903315328466027"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16032740"
+		},
+		"AVG_DIRECT": {
+			"value": "11.7507111023651"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1110322"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1037220"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4348573629159294"
+		},
+		"APP_DAU": {
+			"value": "21172105"
+		},
+		"PAGE_UV": {
+			"value": "17883533"
+		},
+		"ALL_VST_ITM": {
+			"value": "8437707"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5715030.956447951"
+		},
+		"AVG_ALL": {
+			"value": "13.78041957178711"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "225625"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75751243"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7689605769194785"
+		},
+		"PAGE_PV": {
+			"value": "179598987"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7618708"
+		},
+		"ALL_IPV": {
+			"value": "107167374"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "451786"
+		},
+		"CARD_EXP_UV": {
+			"value": "17883533"
+		},
+		"CARD_CLK_UV": {
+			"value": "15605196"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3309304.41160678"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48996378219204395"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12328545"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5280213"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "174708"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3208101553535311"
+		},
+		"ALL_IUV": {
+			"value": "7776786"
+		},
+		"DIRECT_IPV": {
+			"value": "67416403"
+		},
+		"ALL_ORD_UV": {
+			"value": "702489"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "387395"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5153844"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.5967036662628837"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.24768162580274164"
+		},
+		"ALL_CART_UV": {
+			"value": "1926167"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "576609"
+		},
+		"CARD_EXP_PV": {
+			"value": "179598987"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "217722"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200821"
+		},
+		"DIRECT_IUV": {
+			"value": "5773357"
+		},
+		"CTR": {
+			"value": "0.8781846960130051"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15605196"
+		},
+		"APP_SHARE": {
+			"value": "0.8432415328301699"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1341732.6505571774"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.171139610980623"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "329478"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.173124054592817E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "866525"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2521634"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.870366139407028"
+		},
+		"CARD_CLK_PV": {
+			"value": "219732530"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.38097558193120734"
+		},
+		"OF_RATE": {
+			"value": "0.07644941400337658"
+		},
+		"OC_RATE": {
+			"value": "0.09267633286417051"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15984411"
+		},
+		"AVG_DIRECT": {
+			"value": "11.865929475693259"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1147336"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1073878"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4410178349417334"
+		},
+		"APP_DAU": {
+			"value": "20990662"
+		},
+		"PAGE_UV": {
+			"value": "17700198"
+		},
+		"ALL_VST_ITM": {
+			"value": "8392906"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6189126.101075541"
+		},
+		"AVG_ALL": {
+			"value": "13.992947953671633"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "238704"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75801076"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7709264983238983"
+		},
+		"PAGE_PV": {
+			"value": "179817947"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7641480"
+		},
+		"ALL_IPV": {
+			"value": "109230393"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "452087"
+		},
+		"CARD_EXP_UV": {
+			"value": "17700198"
+		},
+		"CARD_CLK_UV": {
+			"value": "15544043"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3391066.867567443"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48967536197558814"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12322806"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5470301"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "186990"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.326174712847845"
+		},
+		"ALL_IUV": {
+			"value": "7806103"
+		},
+		"DIRECT_IPV": {
+			"value": "68506247"
+		},
+		"ALL_ORD_UV": {
+			"value": "723441"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "386629"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5032450"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6074498948650549"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25265449354178393"
+		},
+		"ALL_CART_UV": {
+			"value": "1972247"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "596772"
+		},
+		"CARD_EXP_PV": {
+			"value": "179817947"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "234144"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200822"
+		},
+		"DIRECT_IUV": {
+			"value": "5759510"
+		},
+		"CTR": {
+			"value": "0.8742929684640078"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15544043"
+		},
+		"APP_SHARE": {
+			"value": "0.841241810283907"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1234346.1863241966"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.184541477552015"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "307724"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0371889503788412E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "813967"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2440061"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.870653392134254"
+		},
+		"CARD_CLK_PV": {
+			"value": "213389334"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3929721311070213"
+		},
+		"OF_RATE": {
+			"value": "0.07274938830700688"
+		},
+		"OC_RATE": {
+			"value": "0.0879998287220927"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15695051"
+		},
+		"AVG_DIRECT": {
+			"value": "11.740193870659136"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1073730"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1043125"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4438336282977131"
+		},
+		"APP_DAU": {
+			"value": "20766135"
+		},
+		"PAGE_UV": {
+			"value": "17469341"
+		},
+		"ALL_VST_ITM": {
+			"value": "8494387"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5501884.102358339"
+		},
+		"AVG_ALL": {
+			"value": "13.934368833817997"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "222828"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75860858"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7737842967187555"
+		},
+		"PAGE_PV": {
+			"value": "172067581"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7444625"
+		},
+		"ALL_IPV": {
+			"value": "108039864"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "455265"
+		},
+		"CARD_EXP_UV": {
+			"value": "17469341"
+		},
+		"CARD_CLK_UV": {
+			"value": "15273322"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3253767.122974176"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47893749393256313"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12144584"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5627500"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "173023"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.32969245949231857"
+		},
+		"ALL_IUV": {
+			"value": "7753481"
+		},
+		"DIRECT_IPV": {
+			"value": "67617764"
+		},
+		"ALL_ORD_UV": {
+			"value": "682305"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "390580"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5140390"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6278920373733853"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25917249297444594"
+		},
+		"ALL_CART_UV": {
+			"value": "2009489"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "564061"
+		},
+		"CARD_EXP_PV": {
+			"value": "172067581"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "216778"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200823"
+		},
+		"DIRECT_IUV": {
+			"value": "5796844"
+		},
+		"CTR": {
+			"value": "0.872061836839974"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15273322"
+		},
+		"APP_SHARE": {
+			"value": "0.8419707305250939"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1290920.6876398257"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.363376802430535"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "305529"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0917951373116054E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "816239"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2488433"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.98961563503284"
+		},
+		"CARD_CLK_PV": {
+			"value": "211915731"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.41586610524751216"
+		},
+		"OF_RATE": {
+			"value": "0.07248300036864665"
+		},
+		"OC_RATE": {
+			"value": "0.08825308373299941"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15470322"
+		},
+		"AVG_DIRECT": {
+			"value": "12.01248127429339"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1085260"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1058640"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.44728798072548925"
+		},
+		"APP_DAU": {
+			"value": "20729856"
+		},
+		"PAGE_UV": {
+			"value": "17453932"
+		},
+		"ALL_VST_ITM": {
+			"value": "8654502"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5706948.19837365"
+		},
+		"AVG_ALL": {
+			"value": "14.226576784176734"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "221421"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75949744"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7735196461974094"
+		},
+		"PAGE_PV": {
+			"value": "167444471"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7217933"
+		},
+		"ALL_IPV": {
+			"value": "111065946"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "460835"
+		},
+		"CARD_EXP_UV": {
+			"value": "17453932"
+		},
+		"CARD_CLK_UV": {
+			"value": "15220908"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3577740.2382195136"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47258435329262355"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11966598"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5527891"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "171598"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.332122526889643"
+		},
+		"ALL_IUV": {
+			"value": "7806934"
+		},
+		"DIRECT_IPV": {
+			"value": "69634480"
+		},
+		"ALL_ORD_UV": {
+			"value": "688986"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "395505"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5239859"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6633001695230654"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.255249499995773"
+		},
+		"ALL_CART_UV": {
+			"value": "1992716"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "565870"
+		},
+		"CARD_EXP_PV": {
+			"value": "167444471"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "214295"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200824"
+		},
+		"DIRECT_IUV": {
+			"value": "5753506"
+		},
+		"CTR": {
+			"value": "0.8780123760785329"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15220908"
+		},
+		"APP_SHARE": {
+			"value": "0.8401963314991681"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1250798.8963336733"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.99658098339313"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "301975"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0614555314289315E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "836018"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2383647"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7651303004375785"
+		},
+		"CARD_CLK_PV": {
+			"value": "215442998"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3862134406806545"
+		},
+		"OF_RATE": {
+			"value": "0.07518058007241242"
+		},
+		"OC_RATE": {
+			"value": "0.09043163984486735"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15658089"
+		},
+		"AVG_DIRECT": {
+			"value": "11.617329329282006"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1099151"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1038233"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4371841602012294"
+		},
+		"APP_DAU": {
+			"value": "21128958"
+		},
+		"PAGE_UV": {
+			"value": "17752473"
+		},
+		"ALL_VST_ITM": {
+			"value": "8386033"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5758854.5059184"
+		},
+		"AVG_ALL": {
+			"value": "13.716372936825966"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "219573"
+		},
+		"CARD_CLK_MAU": {
+			"value": "75993951"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7779451247211585"
+		},
+		"PAGE_PV": {
+			"value": "173065893"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7338681"
+		},
+		"ALL_IPV": {
+			"value": "106454142"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "453125"
+		},
+		"CARD_EXP_UV": {
+			"value": "17752473"
+		},
+		"CARD_CLK_UV": {
+			"value": "15586891"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3370468.12277518"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4821447577240464"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12181134"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5382732"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "170994"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.32409602876173926"
+		},
+		"ALL_IUV": {
+			"value": "7761100"
+		},
+		"DIRECT_IPV": {
+			"value": "66840374"
+		},
+		"ALL_ORD_UV": {
+			"value": "701849"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "386207"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5044751"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.615107576395772"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.25594310084910643"
+		},
+		"ALL_CART_UV": {
+			"value": "1986400"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "583484"
+		},
+		"CARD_EXP_PV": {
+			"value": "173065893"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "212419"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200825"
+		},
+		"DIRECT_IUV": {
+			"value": "5754377"
+		},
+		"CTR": {
+			"value": "0.8745829414886228"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15586891"
+		},
+		"APP_SHARE": {
+			"value": "0.8378801096949559"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1353030.3579598647"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.981770854144106"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "314846"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2119348435190676E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "854318"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2390218"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7372105032008704"
+		},
+		"CARD_CLK_PV": {
+			"value": "212324943"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3887818555399482"
+		},
+		"OF_RATE": {
+			"value": "0.07678526232571102"
+		},
+		"OC_RATE": {
+			"value": "0.09203575010089003"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15813061"
+		},
+		"AVG_DIRECT": {
+			"value": "11.459058382862297"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1118870"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1039474"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43845494702565563"
+		},
+		"APP_DAU": {
+			"value": "21058033"
+		},
+		"PAGE_UV": {
+			"value": "17644107"
+		},
+		"ALL_VST_ITM": {
+			"value": "8273454"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6354608.496042436"
+		},
+		"AVG_ALL": {
+			"value": "13.642840375556512"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "228758"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76032573"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7786100995879293"
+		},
+		"PAGE_PV": {
+			"value": "169606017"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7608790"
+		},
+		"ALL_IPV": {
+			"value": "105543005"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "452598"
+		},
+		"CARD_EXP_UV": {
+			"value": "17644107"
+		},
+		"CARD_CLK_UV": {
+			"value": "15431235"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3503123.8961057668"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48815315382650715"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12312209"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5390876"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "179364"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3261359160880174"
+		},
+		"ALL_IUV": {
+			"value": "7736146"
+		},
+		"DIRECT_IPV": {
+			"value": "65939742"
+		},
+		"ALL_ORD_UV": {
+			"value": "712002"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "384535"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "4918009"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6222833768922242"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2569943742013142"
+		},
+		"ALL_CART_UV": {
+			"value": "1988146"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "594022"
+		},
+		"CARD_EXP_PV": {
+			"value": "169606017"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "223604"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200826"
+		},
+		"DIRECT_IUV": {
+			"value": "5748788"
+		},
+		"CTR": {
+			"value": "0.8725624163780648"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15431235"
+		},
+		"APP_SHARE": {
+			"value": "0.8364426003667754"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1333399.3282762512"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.962018630708917"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "313142"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.2078217271511573E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "899575"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2384843"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.670489995908448"
+		},
+		"CARD_CLK_PV": {
+			"value": "214564120"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3844341240058538"
+		},
+		"OF_RATE": {
+			"value": "0.0792184570093757"
+		},
+		"OC_RATE": {
+			"value": "0.09433643723400852"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15549533"
+		},
+		"AVG_DIRECT": {
+			"value": "11.372816844176546"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1161962"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1042308"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43861515562943204"
+		},
+		"APP_DAU": {
+			"value": "21295319"
+		},
+		"PAGE_UV": {
+			"value": "17812312"
+		},
+		"ALL_VST_ITM": {
+			"value": "8309440"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6969557.512782644"
+		},
+		"AVG_ALL": {
+			"value": "13.592824037630796"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "228490"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76078258"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7803232418619903"
+		},
+		"PAGE_PV": {
+			"value": "170067923"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7591429"
+		},
+		"ALL_IPV": {
+			"value": "106197336"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "450562"
+		},
+		"CARD_EXP_UV": {
+			"value": "17812312"
+		},
+		"CARD_CLK_UV": {
+			"value": "15542354"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3309079.183294219"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4919521347448859"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12133662"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5512306"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "180530"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3227423817862611"
+		},
+		"ALL_IUV": {
+			"value": "7812750"
+		},
+		"DIRECT_IPV": {
+			"value": "65379913"
+		},
+		"ALL_ORD_UV": {
+			"value": "737027"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "383383"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "4954006"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6244407183122945"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2592448241656267"
+		},
+		"ALL_CART_UV": {
+			"value": "2025415"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "618914"
+		},
+		"CARD_EXP_PV": {
+			"value": "170067923"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "225134"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200827"
+		},
+		"DIRECT_IUV": {
+			"value": "5639767"
+		},
+		"CTR": {
+			"value": "0.8730349803918371"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15542354"
+		},
+		"APP_SHARE": {
+			"value": "0.8349415496361927"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1277518.2463551632"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.812798740440051"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "302288"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.1057669256238306E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "904709"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2258337"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.5530297292061594"
+		},
+		"CARD_CLK_PV": {
+			"value": "210912486"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.37732880328001295"
+		},
+		"OF_RATE": {
+			"value": "0.08046505503116605"
+		},
+		"OC_RATE": {
+			"value": "0.09500428456240703"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15605196"
+		},
+		"AVG_DIRECT": {
+			"value": "11.128613114690731"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1157189"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1000195"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.436347998497785"
+		},
+		"APP_DAU": {
+			"value": "21156669"
+		},
+		"PAGE_UV": {
+			"value": "17664582"
+		},
+		"ALL_VST_ITM": {
+			"value": "8279827"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6230104.6070396835"
+		},
+		"AVG_ALL": {
+			"value": "13.321474512205327"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "221160"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76106671"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7792365440331541"
+		},
+		"PAGE_PV": {
+			"value": "166334466"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7560675"
+		},
+		"ALL_IPV": {
+			"value": "102680660"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "449550"
+		},
+		"CARD_EXP_UV": {
+			"value": "17664582"
+		},
+		"CARD_CLK_UV": {
+			"value": "15421798"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3373033.2711524437"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4864562343644985"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12160139"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5332437"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "176048"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.319269768172267"
+		},
+		"ALL_IUV": {
+			"value": "7707905"
+		},
+		"DIRECT_IPV": {
+			"value": "62762785"
+		},
+		"ALL_ORD_UV": {
+			"value": "732284"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "382290"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "4924946"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6173143935184184"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2556847807543035"
+		},
+		"ALL_CART_UV": {
+			"value": "1970794"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "620217"
+		},
+		"CARD_EXP_PV": {
+			"value": "166334466"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "219161"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200828"
+		},
+		"DIRECT_IUV": {
+			"value": "5624536"
+		},
+		"CTR": {
+			"value": "0.8714493714643037"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15421798"
+		},
+		"APP_SHARE": {
+			"value": "0.8354249514577594"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1325411.0933839695"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.0330190721854935"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "321003"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.3062348936334249E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "898771"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2397480"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7321457348694795"
+		},
+		"CARD_CLK_PV": {
+			"value": "211041477"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.39080882138917356"
+		},
+		"OF_RATE": {
+			"value": "0.08109526726719628"
+		},
+		"OC_RATE": {
+			"value": "0.0960840820255432"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15544043"
+		},
+		"AVG_DIRECT": {
+			"value": "11.553724253876231"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1159238"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1034421"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4373374474171864"
+		},
+		"APP_DAU": {
+			"value": "20842157"
+		},
+		"PAGE_UV": {
+			"value": "17412058"
+		},
+		"ALL_VST_ITM": {
+			"value": "8441543"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7697133.009336055"
+		},
+		"AVG_ALL": {
+			"value": "13.794883351094459"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "233109"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76110324"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.778217417437664"
+		},
+		"PAGE_PV": {
+			"value": "166281656"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7427334"
+		},
+		"ALL_IPV": {
+			"value": "105047278"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "454325"
+		},
+		"CARD_EXP_UV": {
+			"value": "17412058"
+		},
+		"CARD_CLK_UV": {
+			"value": "15173727"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3287168.3977303253"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4816127146782755"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12096645"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5327210"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "186731"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3230253425528447"
+		},
+		"ALL_IUV": {
+			"value": "7614945"
+		},
+		"DIRECT_IPV": {
+			"value": "64984338"
+		},
+		"ALL_ORD_UV": {
+			"value": "731675"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "389713"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5098790"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6317430348420393"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2544753770381795"
+		},
+		"ALL_CART_UV": {
+			"value": "1937816"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "617536"
+		},
+		"CARD_EXP_PV": {
+			"value": "166281656"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "234300"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200829"
+		},
+		"DIRECT_IUV": {
+			"value": "5665414"
+		},
+		"CTR": {
+			"value": "0.8710665578263925"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15173727"
+		},
+		"APP_SHARE": {
+			"value": "0.8356477693004615"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1294474.5890270555"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.117253863073526"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "317223"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0500634462876556E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "900553"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2415508"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7669138649994203"
+		},
+		"CARD_CLK_PV": {
+			"value": "213052478"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3958047037991717"
+		},
+		"OF_RATE": {
+			"value": "0.08089901285904978"
+		},
+		"OC_RATE": {
+			"value": "0.09520158492961689"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15273322"
+		},
+		"AVG_DIRECT": {
+			"value": "11.620794173206054"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1147622"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1036107"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43909257787640055"
+		},
+		"APP_DAU": {
+			"value": "20915031"
+		},
+		"PAGE_UV": {
+			"value": "17477599"
+		},
+		"ALL_VST_ITM": {
+			"value": "8546810"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6083508.847559768"
+		},
+		"AVG_ALL": {
+			"value": "13.931581109065029"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "231403"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76201029"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7758549187923884"
+		},
+		"PAGE_PV": {
+			"value": "166336098"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7242226"
+		},
+		"ALL_IPV": {
+			"value": "106914910"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "459652"
+		},
+		"CARD_EXP_UV": {
+			"value": "17477599"
+		},
+		"CARD_CLK_UV": {
+			"value": "15224152"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3005280.605613664"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4772872215244152"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11849882"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5728369"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "186384"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.32415287706280477"
+		},
+		"ALL_IUV": {
+			"value": "7674284"
+		},
+		"DIRECT_IPV": {
+			"value": "65836610"
+		},
+		"ALL_ORD_UV": {
+			"value": "730604"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "395478"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5192549"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.642764326478309"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.26691988464331007"
+		},
+		"ALL_CART_UV": {
+			"value": "2048419"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "620842"
+		},
+		"CARD_EXP_PV": {
+			"value": "166336098"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "233940"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200830"
+		},
+		"DIRECT_IUV": {
+			"value": "5853816"
+		},
+		"CTR": {
+			"value": "0.865938702786785"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15224152"
+		},
+		"APP_SHARE": {
+			"value": "0.8310647632443927"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1412108.8792522654"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.3726092713273"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "331803"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0941275168609152E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "931717"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2517668"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.937050745796429"
+		},
+		"CARD_CLK_PV": {
+			"value": "217683192"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.41906593128181374"
+		},
+		"OF_RATE": {
+			"value": "0.0809995767404963"
+		},
+		"OC_RATE": {
+			"value": "0.09525708579495484"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15220908"
+		},
+		"AVG_DIRECT": {
+			"value": "12.006063224399263"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1184000"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1075739"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4420496668805079"
+		},
+		"APP_DAU": {
+			"value": "21479977"
+		},
+		"PAGE_UV": {
+			"value": "17851252"
+		},
+		"ALL_VST_ITM": {
+			"value": "8731239"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6285182.587163461"
+		},
+		"AVG_ALL": {
+			"value": "14.416048124859019"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "241147"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76345690"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7734790854790004"
+		},
+		"PAGE_PV": {
+			"value": "167709374"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7237154"
+		},
+		"ALL_IPV": {
+			"value": "113759054"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "466667"
+		},
+		"CARD_EXP_UV": {
+			"value": "17851252"
+		},
+		"CARD_CLK_UV": {
+			"value": "15458090"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3366152.0198779395"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47537320962113355"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11773054"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5742293"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "193960"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3279218734910022"
+		},
+		"ALL_IUV": {
+			"value": "7891140"
+		},
+		"DIRECT_IPV": {
+			"value": "70281285"
+		},
+		"ALL_ORD_UV": {
+			"value": "751687"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "400246"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5285075"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6783106470840443"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2620660639654093"
+		},
+		"ALL_CART_UV": {
+			"value": "2068000"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "639179"
+		},
+		"CARD_EXP_PV": {
+			"value": "167709374"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "244429"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200831"
+		},
+		"DIRECT_IUV": {
+			"value": "5974664"
+		},
+		"CTR": {
+			"value": "0.8720315687094666"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15458090"
+		},
+		"APP_SHARE": {
+			"value": "0.8368328334201443"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1503267.9600236672"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.414106799313732"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "347444"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.140735138991716E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "968232"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2676027"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "4.021806388170156"
+		},
+		"CARD_CLK_PV": {
+			"value": "229842913"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.40832738368070975"
+		},
+		"OF_RATE": {
+			"value": "0.08293558069022797"
+		},
+		"OC_RATE": {
+			"value": "0.09746442882023348"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15586891"
+		},
+		"AVG_DIRECT": {
+			"value": "12.196997856281124"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1231311"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1135605"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4433497773471297"
+		},
+		"APP_DAU": {
+			"value": "21652426"
+		},
+		"PAGE_UV": {
+			"value": "18119461"
+		},
+		"ALL_VST_ITM": {
+			"value": "8873997"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6756144.675689178"
+		},
+		"AVG_ALL": {
+			"value": "14.46737345328963"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "253011"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76418882"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7803928313863233"
+		},
+		"PAGE_PV": {
+			"value": "178467002"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7455744"
+		},
+		"ALL_IPV": {
+			"value": "116220158"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "468195"
+		},
+		"CARD_EXP_UV": {
+			"value": "18119461"
+		},
+		"CARD_CLK_UV": {
+			"value": "15800742"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3353833.044997802"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4823198726362701"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12163898"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "6010479"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "203685"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.329737402232881"
+		},
+		"ALL_IUV": {
+			"value": "8033259"
+		},
+		"DIRECT_IPV": {
+			"value": "72872964"
+		},
+		"ALL_ORD_UV": {
+			"value": "782957"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "402708"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5435428"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6512137072824252"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2680121479962242"
+		},
+		"ALL_CART_UV": {
+			"value": "2153011"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "666243"
+		},
+		"CARD_EXP_PV": {
+			"value": "178467002"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "256030"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200901"
+		},
+		"DIRECT_IUV": {
+			"value": "5986026"
+		},
+		"CTR": {
+			"value": "0.8727177972096588"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15800742"
+		},
+		"APP_SHARE": {
+			"value": "0.8359751938292106"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1385000.3357826264"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.311034949476792"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "338276"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0540669292664066E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "900755"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2658566"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.9769295369304754"
+		},
+		"CARD_CLK_PV": {
+			"value": "229398258"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.40530522527038104"
+		},
+		"OF_RATE": {
+			"value": "0.07847530105456171"
+		},
+		"OC_RATE": {
+			"value": "0.09258668356482158"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15431235"
+		},
+		"AVG_DIRECT": {
+			"value": "12.092797625670185"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1154836"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1129212"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4400819649254815"
+		},
+		"APP_DAU": {
+			"value": "21773292"
+		},
+		"PAGE_UV": {
+			"value": "18201932"
+		},
+		"ALL_VST_ITM": {
+			"value": "8685331"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "6048068.369040717"
+		},
+		"AVG_ALL": {
+			"value": "14.340589827500498"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "246295"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76448426"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7821909911941591"
+		},
+		"PAGE_PV": {
+			"value": "178600710"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7784103"
+		},
+		"ALL_IPV": {
+			"value": "114873029"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "464225"
+		},
+		"CARD_EXP_UV": {
+			"value": "18201932"
+		},
+		"CARD_CLK_UV": {
+			"value": "15885150"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3315651.788340093"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49264161138761714"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12070173"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5878207"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "196900"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.328867616910117"
+		},
+		"ALL_IUV": {
+			"value": "8010342"
+		},
+		"DIRECT_IPV": {
+			"value": "72387801"
+		},
+		"ALL_ORD_UV": {
+			"value": "741651"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "399560"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5300303"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6431834957431021"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.26499068329417147"
+		},
+		"ALL_CART_UV": {
+			"value": "2122666"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "628614"
+		},
+		"CARD_EXP_PV": {
+			"value": "178600710"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "246134"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200902"
+		},
+		"DIRECT_IUV": {
+			"value": "6017974"
+		},
+		"CTR": {
+			"value": "0.8713533470767639"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "15885150"
+		},
+		"APP_SHARE": {
+			"value": "0.8318178745622135"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1365480.6617769087"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.105655130434661"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "329009"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0457177256248018E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "911560"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2611278"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.7943948022776697"
+		},
+		"CARD_CLK_PV": {
+			"value": "234470047"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.39152088814052777"
+		},
+		"OF_RATE": {
+			"value": "0.07745430106406785"
+		},
+		"OC_RATE": {
+			"value": "0.09219445825875038"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15542354"
+		},
+		"AVG_DIRECT": {
+			"value": "11.754660289326607"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1177426"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1129062"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4376859435686865"
+		},
+		"APP_DAU": {
+			"value": "22412465"
+		},
+		"PAGE_UV": {
+			"value": "18643089"
+		},
+		"ALL_VST_ITM": {
+			"value": "8834955"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5984917.727572636"
+		},
+		"AVG_ALL": {
+			"value": "13.949854273710516"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "240216"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76576155"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7809999051623712"
+		},
+		"PAGE_PV": {
+			"value": "180678074"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7918962"
+		},
+		"ALL_IPV": {
+			"value": "113828272"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "462554"
+		},
+		"CARD_EXP_UV": {
+			"value": "18643089"
+		},
+		"CARD_CLK_UV": {
+			"value": "16244718"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3212328.561804227"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.49851351734166816"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12138577"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5947365"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "192421"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3227991884821233"
+		},
+		"ALL_IUV": {
+			"value": "8159818"
+		},
+		"DIRECT_IPV": {
+			"value": "70739240"
+		},
+		"ALL_ORD_UV": {
+			"value": "752290"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "399366"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5400350"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6300060072590767"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2656235715061292"
+		},
+		"ALL_CART_UV": {
+			"value": "2167440"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "632013"
+		},
+		"CARD_EXP_PV": {
+			"value": "180678074"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "240241"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200903"
+		},
+		"DIRECT_IUV": {
+			"value": "5983049"
+		},
+		"CTR": {
+			"value": "0.8711000703554735"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16244718"
+		},
+		"APP_SHARE": {
+			"value": "0.8300049168325956"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1281613.9668355072"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.034468543837439"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "323218"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0225288517463246E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "903015"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2575901"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.725284508290664"
+		},
+		"CARD_CLK_PV": {
+			"value": "235597071"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3910539557133951"
+		},
+		"OF_RATE": {
+			"value": "0.07608954328135094"
+		},
+		"OC_RATE": {
+			"value": "0.09048249696411143"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15421798"
+		},
+		"AVG_DIRECT": {
+			"value": "11.705779778838515"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1164889"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1112264"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4351696411583616"
+		},
+		"APP_DAU": {
+			"value": "22650761"
+		},
+		"PAGE_UV": {
+			"value": "18800243"
+		},
+		"ALL_VST_ITM": {
+			"value": "8790797"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5641258.204816427"
+		},
+		"AVG_ALL": {
+			"value": "13.866933657813341"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "234942"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76723963"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7815043356163789"
+		},
+		"PAGE_PV": {
+			"value": "179096140"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8003170"
+		},
+		"ALL_IPV": {
+			"value": "113449475"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "464276"
+		},
+		"CARD_EXP_UV": {
+			"value": "18800243"
+		},
+		"CARD_CLK_UV": {
+			"value": "16376893"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3138221.6950413794"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4926629074139668"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12052202"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "5924150"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "188610"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31824317377174327"
+		},
+		"ALL_IUV": {
+			"value": "8181295"
+		},
+		"DIRECT_IPV": {
+			"value": "70036254"
+		},
+		"ALL_ORD_UV": {
+			"value": "740264"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "402832"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5385456"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6334557238363708"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.26333789455092377"
+		},
+		"ALL_CART_UV": {
+			"value": "2154445"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "622511"
+		},
+		"CARD_EXP_PV": {
+			"value": "179096140"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "236895"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200904"
+		},
+		"DIRECT_IUV": {
+			"value": "6042738"
+		},
+		"CTR": {
+			"value": "0.8658921018411638"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16376893"
+		},
+		"APP_SHARE": {
+			"value": "0.8224198161017088"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1311162.907022425"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.9965411791016665"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "327817"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0148038109403735E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "865950"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2802990"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.72145296721389"
+		},
+		"CARD_CLK_PV": {
+			"value": "243429550"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.39233670282056127"
+		},
+		"OF_RATE": {
+			"value": "0.07250994273616997"
+		},
+		"OC_RATE": {
+			"value": "0.08606185498760457"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15173727"
+		},
+		"AVG_DIRECT": {
+			"value": "11.874214801303648"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1113324"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1179811"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4293198618649968"
+		},
+		"APP_DAU": {
+			"value": "23444046"
+		},
+		"PAGE_UV": {
+			"value": "19280848"
+		},
+		"ALL_VST_ITM": {
+			"value": "8970714"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5472071.358750191"
+		},
+		"AVG_ALL": {
+			"value": "13.967537288054304"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "238504"
+		},
+		"CARD_CLK_MAU": {
+			"value": "76980220"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7838662841370482"
+		},
+		"PAGE_PV": {
+			"value": "182885691"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7997698"
+		},
+		"ALL_IPV": {
+			"value": "115618399"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "465164"
+		},
+		"CARD_EXP_UV": {
+			"value": "19280848"
+		},
+		"CARD_CLK_UV": {
+			"value": "16695134"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3435246.9719499936"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.48835258311817753"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11894173"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "6420928"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "191941"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.31340623607426393"
+		},
+		"ALL_IUV": {
+			"value": "8277651"
+		},
+		"DIRECT_IPV": {
+			"value": "71752769"
+		},
+		"ALL_ORD_UV": {
+			"value": "712390"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "403409"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5500187"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6321894204396779"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.27290652867582843"
+		},
+		"ALL_CART_UV": {
+			"value": "2259025"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "600212"
+		},
+		"CARD_EXP_PV": {
+			"value": "182885691"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "241657"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200905"
+		},
+		"DIRECT_IUV": {
+			"value": "6006851"
+		},
+		"CTR": {
+			"value": "0.8654239048512492"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16695134"
+		},
+		"APP_SHARE": {
+			"value": "0.8167455394314035"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1275979.987754396"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.941927912727538"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "316528"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.0112851305115439E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "827441"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2796133"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.6820867999841678"
+		},
+		"CARD_CLK_PV": {
+			"value": "241183388"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.39780166343768186"
+		},
+		"OF_RATE": {
+			"value": "0.06956885287602246"
+		},
+		"OC_RATE": {
+			"value": "0.08239546864702287"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15224152"
+		},
+		"AVG_DIRECT": {
+			"value": "11.832064920538231"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1058409"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1170078"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4291201882119677"
+		},
+		"APP_DAU": {
+			"value": "23633422"
+		},
+		"PAGE_UV": {
+			"value": "19302492"
+		},
+		"ALL_VST_ITM": {
+			"value": "8995437"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5280333.444508444"
+		},
+		"AVG_ALL": {
+			"value": "13.846768518363136"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "230234"
+		},
+		"CARD_CLK_MAU": {
+			"value": "77235385"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7833210020499007"
+		},
+		"PAGE_PV": {
+			"value": "178665545"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7934780"
+		},
+		"ALL_IPV": {
+			"value": "114694016"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "467534"
+		},
+		"CARD_EXP_UV": {
+			"value": "19302492"
+		},
+		"CARD_CLK_UV": {
+			"value": "16704838"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "2934720.226253943"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4752750112697508"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "11925398"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "6333421"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "185301"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.311195621788109"
+		},
+		"ALL_IUV": {
+			"value": "8283089"
+		},
+		"DIRECT_IPV": {
+			"value": "71073451"
+		},
+		"ALL_ORD_UV": {
+			"value": "682489"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "403487"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5466827"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6419481495438866"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2713027712245999"
+		},
+		"ALL_CART_UV": {
+			"value": "2247225"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "576245"
+		},
+		"CARD_EXP_PV": {
+			"value": "178665545"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "234060"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200906"
+		},
+		"DIRECT_IUV": {
+			"value": "6141593"
+		},
+		"CTR": {
+			"value": "0.8647686665196223"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "16704838"
+		},
+		"APP_SHARE": {
+			"value": "0.813336814454564"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1333511.3558702685"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.071545443026306"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "314473"
+		},
+		"ALL_ORD_FEE": {
+			"value": "9590594.606358321"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "829041"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2870965"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.734167966467394"
+		},
+		"CARD_CLK_PV": {
+			"value": "245802572"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.41369048987748325"
+		},
+		"OF_RATE": {
+			"value": "0.0679297687022548"
+		},
+		"OC_RATE": {
+			"value": "0.08051328285241804"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15458090"
+		},
+		"AVG_DIRECT": {
+			"value": "12.010486204474963"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1060731"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1208954"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.4315756227362117"
+		},
+		"APP_DAU": {
+			"value": "24287194"
+		},
+		"PAGE_UV": {
+			"value": "19753669"
+		},
+		"ALL_VST_ITM": {
+			"value": "9276912"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5407013.449527473"
+		},
+		"AVG_ALL": {
+			"value": "14.068323425063712"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "229814"
+		},
+		"CARD_CLK_MAU": {
+			"value": "77530792"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7792846981742246"
+		},
+		"PAGE_PV": {
+			"value": "178306052"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "7906803"
+		},
+		"ALL_IPV": {
+			"value": "119935299"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "471554"
+		},
+		"CARD_EXP_UV": {
+			"value": "19753669"
+		},
+		"CARD_CLK_UV": {
+			"value": "17082354"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3140936.7654557223"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.47332413519963495"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12046253"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "6593953"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "184249"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3109089759477088"
+		},
+		"ALL_IUV": {
+			"value": "8525202"
+		},
+		"DIRECT_IPV": {
+			"value": "73763518"
+		},
+		"ALL_ORD_UV": {
+			"value": "686392"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "408870"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5677639"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6726372865908107"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.274850144313296"
+		},
+		"ALL_CART_UV": {
+			"value": "2343153"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "579115"
+		},
+		"CARD_EXP_PV": {
+			"value": "178306052"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "231342"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200907"
+		},
+		"DIRECT_IUV": {
+			"value": "6356597"
+		},
+		"CTR": {
+			"value": "0.8629781248666608"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "17082354"
+		},
+		"APP_SHARE": {
+			"value": "0.8128592693752456"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1350863.579877396"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "5.980200451223279"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "327165"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.022917818712099E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "854425"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "2987208"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.652163572087169"
+		},
+		"CARD_CLK_PV": {
+			"value": "260958705"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3984413171315918"
+		},
+		"OF_RATE": {
+			"value": "0.06740362846179614"
+		},
+		"OC_RATE": {
+			"value": "0.07994593097200907"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15800742"
+		},
+		"AVG_DIRECT": {
+			"value": "11.889911221365772"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1094585"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1264425"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.43016223075882665"
+		},
+		"APP_DAU": {
+			"value": "25458787"
+		},
+		"PAGE_UV": {
+			"value": "20694411"
+		},
+		"ALL_VST_ITM": {
+			"value": "9351585"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5673694.852444939"
+		},
+		"AVG_ALL": {
+			"value": "13.902197877005431"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "238853"
+		},
+		"CARD_CLK_MAU": {
+			"value": "77655668"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7883947475378055"
+		},
+		"PAGE_PV": {
+			"value": "189687592"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "8224817"
+		},
+		"ALL_IPV": {
+			"value": "123756726"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "470926"
+		},
+		"CARD_EXP_UV": {
+			"value": "20694411"
+		},
+		"CARD_CLK_UV": {
+			"value": "17858824"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3188725.7570299003"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.4814803041782181"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12457222"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "6887358"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "192217"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.3071649152034334"
+		},
+		"ALL_IUV": {
+			"value": "8901954"
+		},
+		"DIRECT_IPV": {
+			"value": "75579374"
+		},
+		"ALL_ORD_UV": {
+			"value": "711675"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "407450"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "5679462"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6524239392527056"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.2769633498443151"
+		},
+		"ALL_CART_UV": {
+			"value": "2465515"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "600024"
+		},
+		"CARD_EXP_PV": {
+			"value": "189687592"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "241338"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200908"
+		},
+		"DIRECT_IUV": {
+			"value": "7264585"
+		},
+		"CTR": {
+			"value": "0.8705025710670454"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "17858824"
+		},
+		"APP_SHARE": {
+			"value": "0.8213842220665435"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "1384788.180216046"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "6.473226534402595"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "350318"
+		},
+		"ALL_ORD_FEE": {
+			"value": "1.166755298855405E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "907392"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "3472031"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "3.8255235742029945"
+		},
+		"CARD_CLK_PV": {
+			"value": "308842855"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3964963766224855"
+		},
+		"OF_RATE": {
+			"value": "0.06128918974745502"
+		},
+		"OC_RATE": {
+			"value": "0.07542326773772652"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "15885150"
+		},
+		"AVG_DIRECT": {
+			"value": "11.885446450141336"
+		},
+		"ALL_ORD_CNT": {
+			"value": "1209833"
+		},
+		"DIRECT_CART_UV": {
+			"value": "1482713"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.45709371396382337"
+		},
+		"APP_DAU": {
+			"value": "27478250"
+		},
+		"PAGE_UV": {
+			"value": "22570201"
+		},
+		"ALL_VST_ITM": {
+			"value": "10171001"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "5917715.467519923"
+		},
+		"AVG_ALL": {
+			"value": "14.161705437311962"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "254333"
+		},
+		"CARD_CLK_MAU": {
+			"value": "78242025"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.7950227728413015"
+		},
+		"PAGE_PV": {
+			"value": "217764502"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "9116687"
+		},
+		"ALL_IPV": {
+			"value": "146102024"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "483355"
+		},
+		"CARD_EXP_UV": {
+			"value": "22570201"
+		},
+		"CARD_CLK_UV": {
+			"value": "19647418"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "3453840.514041707"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.5104864127671564"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "12629056"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "8738095"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "200862"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.32186620757165607"
+		},
+		"ALL_IUV": {
+			"value": "10316697"
+		},
+		"DIRECT_IPV": {
+			"value": "86342836"
+		},
+		"ALL_ORD_UV": {
+			"value": "778119"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "414258"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "6012472"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6709175400864922"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.293075874962694"
+		},
+		"ALL_CART_UV": {
+			"value": "3023575"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "632302"
+		},
+		"CARD_EXP_PV": {
+			"value": "217764502"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "253780"
+		}
+	}, {
+		"STAT_DATE": {
+			"value": "20200909"
+		},
+		"DIRECT_IUV": {
+			"value": "10511936"
+		},
+		"CTR": {
+			"value": "0.8877299315525481"
+		},
+		"BEF1D_CLK_UV": {
+			"value": "19647418"
+		},
+		"APP_SHARE": {
+			"value": "0.8486124241520592"
+		},
+		"DIRECT_FULLFILL_FEE": {
+			"value": "8067569.4201473445"
+		},
+		"CARD_CODE": {
+			"value": "d2f3174ad32b8c23566edfafb8f88717"
+		},
+		"LEVEL2_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_EFF": {
+			"value": "8.429447274199172"
+		},
+		"DIRECT_ORD_CNT": {
+			"value": "1266127"
+		},
+		"ALL_ORD_FEE": {
+			"value": "9.658696661704981E7"
+		},
+		"SORT_INDEX": {},
+		"ALL_FULLFILL_CNT": {
+			"value": "5021373"
+		},
+		"DIRECT_CART_CNT": {
+			"value": "5541485"
+		},
+		"LEVEL3_CARD": {
+			"value": "All"
+		},
+		"TYPE": {
+			"value": "1d"
+		},
+		"DIRECT_IPV_EFF": {
+			"value": "4.724262447712525"
+		},
+		"CARD_CLK_PV": {
+			"value": "509290832"
+		},
+		"DIRECT_IPV_RATE": {
+			"value": "0.3910929709597784"
+		},
+		"OF_RATE": {
+			"value": "0.1826484710843804"
+		},
+		"OC_RATE": {
+			"value": "0.20376113040189775"
+		},
+		"BEF7D_CLK_UV": {
+			"value": "16244718"
+		},
+		"AVG_DIRECT": {
+			"value": "12.724050545969838"
+		},
+		"ALL_ORD_CNT": {
+			"value": "6033098"
+		},
+		"DIRECT_CART_UV": {
+			"value": "2264263"
+		},
+		"PARENT_ID": {
+			"value": "-1"
+		},
+		"ALL_IUV_RATE": {
+			"value": "0.523956254947067"
+		},
+		"APP_DAU": {
+			"value": "33362969"
+		},
+		"PAGE_UV": {
+			"value": "28312230"
+		},
+		"ALL_VST_ITM": {
+			"value": "13004359"
+		},
+		"CARD_LEVEL": {
+			"value": "0"
+		},
+		"ALL_FULLFILL_FEE": {
+			"value": "7.001590121371388E7"
+		},
+		"AVG_ALL": {
+			"value": "16.088074518836997"
+		},
+		"DIRECT_ORD_UV": {
+			"value": "821104"
+		},
+		"CARD_CLK_MAU": {
+			"value": "79765967"
+		},
+		"PARENT_CARD_NAME": {
+			"value": "root"
+		},
+		"REVISIT7D_RATE": {
+			"value": "0.8047316056825363"
+		},
+		"PAGE_PV": {
+			"value": "342001557"
+		},
+		"REVST_BEF1D_CLK_UV": {
+			"value": "11487435"
+		},
+		"ALL_IPV": {
+			"value": "238656450"
+		},
+		"LEVEL4_CARD": {
+			"value": "All"
+		},
+		"ALL_VST_SLR": {
+			"value": "515954"
+		},
+		"CARD_EXP_UV": {
+			"value": "28312230"
+		},
+		"CARD_CLK_UV": {
+			"value": "25133614"
+		},
+		"HP_SHARE": {
+			"value": "1.0"
+		},
+		"DIRECT_ORD_FEE": {
+			"value": "1.251289615384605E7"
+		},
+		"REVISIT1D_RATE": {
+			"value": "0.5846791166147124"
+		},
+		"REVST_BEF7D_CLK_UV": {
+			"value": "13072638"
+		},
+		"CARD_NAME": {
+			"value": "Home Page"
+		},
+		"ALL_CART_CNT": {
+			"value": "16743087"
+		},
+		"DIRECT_FULLFILL_UV": {
+			"value": "706598"
+		},
+		"DIRECT_IUV_RATE": {
+			"value": "0.37128604846739377"
+		},
+		"ALL_IUV": {
+			"value": "14834370"
+		},
+		"DIRECT_IPV": {
+			"value": "133754405"
+		},
+		"ALL_ORD_UV": {
+			"value": "3022668"
+		},
+		"DIRECT_VST_SLR": {
+			"value": "439839"
+		},
+		"DIRECT_VST_ITM": {
+			"value": "7736106"
+		},
+		"LEVEL1_CARD": {
+			"value": "All"
+		},
+		"ALL_IPV_RATE": {
+			"value": "0.6978227002633207"
+		},
+		"IS_LEAF": {
+			"value": "0"
+		},
+		"A2C_RATE": {
+			"value": "0.33955361771345866"
+		},
+		"ALL_CART_UV": {
+			"value": "5037064"
+		},
+		"VENTURE": {
+			"value": "SEA"
+		},
+		"ALL_FULLFILL_UV": {
+			"value": "2709475"
+		},
+		"CARD_EXP_PV": {
+			"value": "342001557"
+		},
+		"DIRECT_FULLFILL_CNT": {
+			"value": "1018553"
+		}
+	}]
+}
